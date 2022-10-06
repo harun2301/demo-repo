@@ -1,7 +1,7 @@
 # Demo (hashtag is for header)
 
-Some description for my demo repository
+So now I am modifying code on my "prueba_1" branch. Lets see how this works!
 
 ## Now this is a subheader
 
-I am taking too long on this tutorial but I need it anyway
+Some random text just to prove how well can I write without seeing the keyboard. 
